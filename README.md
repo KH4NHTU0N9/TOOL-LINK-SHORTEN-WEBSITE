@@ -48,7 +48,7 @@ secure-url-shortener/
 │ └── package.json # Các thư viện phụ thuộc của Frontend
 ├── docker-compose.yml # Container chạy nhanh MongoDB & Redis local
 ├── test_api.js # Kịch bản kiểm thử bảo mật tự động
-└── README.md                  # Hướng dẫn này
+└── README.md # Hướng dẫn này
 ```
 
 ---
