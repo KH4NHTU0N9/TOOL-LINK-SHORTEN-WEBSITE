@@ -69,7 +69,7 @@ REDIS_URI=redis://localhost:6379
 
 # Security Settings
 RATE_LIMIT_WINDOW_MS=60000 # Thời gian tính giới hạn (1 phút = 60000ms)
-RATE_LIMIT_MAX=10          # Tối đa 10 requests tạo link từ 1 IP trong 1 phút
+RATE_LIMIT_MAX=10 # Tối đa 10 requests tạo link từ 1 IP trong 1 phút
 ```
 
 ---
