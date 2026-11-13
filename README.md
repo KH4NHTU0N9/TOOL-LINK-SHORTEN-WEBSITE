@@ -53,7 +53,7 @@ secure-url-shortener/
 
 ---
 
-## 🔑 Cấu Hình Biến Môi Trường (.env)
+## Cấu Hình Biến Môi Trường (.env)
 
 Vào thư mục `backend`, tạo file `.env` (hoặc copy từ `.env.example` đã được tạo sẵn):
 
