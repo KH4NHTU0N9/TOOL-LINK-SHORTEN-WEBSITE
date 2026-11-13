@@ -33,7 +33,7 @@ secure-url-shortener/
 │ │ │ └── url.js # API Route tạo link và điều hướng (Redirect)
 │ │ └── server.js # Khởi chạy server Express chính
 │ ├── .env.example # Biến môi trường mẫu
-│   └── package.json           # Các thư viện phụ thuộc của Backend
+│ └── package.json # Các thư viện phụ thuộc của Backend
 ├── frontend/
 │   ├── src/
 │   │   ├── components/
