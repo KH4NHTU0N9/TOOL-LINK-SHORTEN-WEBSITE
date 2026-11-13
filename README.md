@@ -22,7 +22,7 @@ secure-url-shortener/
 ├── backend/
 │ ├── src/
 │ │ ├── config/
-│   │   │   ├── db.js          # Kết nối MongoDB & Redis (có cơ chế tự phục hồi)
+│ │ │ ├── db.js # Kết nối MongoDB & Redis (có cơ chế tự phục hồi)
 │   │   │   └── security.js    # Cấu hình CORS & Rate Limiter dựa trên Redis
 │   │   ├── models/
 │   │   │   └── Url.js         # Mongoose Schema & TTL Index tự động xoá
