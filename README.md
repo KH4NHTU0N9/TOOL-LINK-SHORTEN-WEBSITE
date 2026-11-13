@@ -44,7 +44,7 @@ secure-url-shortener/
 │ │ ├── index.css # CSS thiết lập Glassmorphism & Background Glow
 │ │ └── main.jsx # Entrypoint React
 │ ├── index.html # Cấu hình SEO meta tag chuẩn
-│   ├── tailwind.config.js     # Thiết lập Theme màu tối cao cấp
+│ ├── tailwind.config.js # Thiết lập Theme màu tối cao cấp
 │   └── package.json           # Các thư viện phụ thuộc của Frontend
 ├── docker-compose.yml         # Container chạy nhanh MongoDB & Redis local
 ├── test_api.js                # Kịch bản kiểm thử bảo mật tự động
