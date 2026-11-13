@@ -128,6 +128,6 @@ node test_api.js
 1. **Tạo URL hợp lệ**: Kiểm chứng đầu ra của Base62 và định dạng Short URL.
 2. **Kiểm tra Redirect**: Thử truy cập ID vừa tạo để xác nhận redirect mã HTTP 302 về trang gốc.
 3. **Chặn giao thức lạ**: Gửi link độc hại `javascript:alert(1)`(Mong đợi: HTTP 400).
-4. **Chặn thẻ HTML script**: Gửi link chứa `<script>` (Mong đợi: HTTP 400).
+4. **Chặn thẻ HTML script**: Gửi link chứa `<script>`(Mong đợi: HTTP 400).
 5. **Chặn Custom Alias sai định dạng**: Gửi alias chứa khoảng trắng (Mong đợi: HTTP 400).
 6. **Kiểm thử DDoS/Spam (Rate Limit)**: Gửi liên tiếp 12 requests tạo link trong vài giây (Mong đợi: 10 requests đầu thành công, 2 requests cuối bị chặn trả về mã lỗi HTTP 429).
