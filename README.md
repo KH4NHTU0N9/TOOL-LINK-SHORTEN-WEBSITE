@@ -15,7 +15,7 @@ Hệ thống đạt tiêu chuẩn doanh nghiệp với cơ chế lưu trữ đ�
 
 ---
 
-## 🏗️ Sơ Đồ Cấu Trúc Thư Mục
+## Sơ Đồ Cấu Trúc Thư Mục
 
 ```text
 secure-url-shortener/
