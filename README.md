@@ -40,7 +40,7 @@ secure-url-shortener/
 │ │ │ ├── Header.jsx # Component tiêu đề thương hiệu
 │ │ │ ├── ShortenerForm.jsx # Form nhập liệu, custom alias, chọn TTL
 │ │ │ └── ResultCard.jsx # Hiển thị link kết quả, copy clipboard, QR Code
-│   │   ├── App.jsx            # Layout chính và quản lý State
+│ │ ├── App.jsx # Layout chính và quản lý State
 │   │   ├── index.css          # CSS thiết lập Glassmorphism & Background Glow
 │   │   └── main.jsx           # Entrypoint React
 │   ├── index.html             # Cấu hình SEO meta tag chuẩn
