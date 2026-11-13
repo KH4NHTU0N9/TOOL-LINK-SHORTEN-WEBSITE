@@ -42,7 +42,7 @@ secure-url-shortener/
 │ │ │ └── ResultCard.jsx # Hiển thị link kết quả, copy clipboard, QR Code
 │ │ ├── App.jsx # Layout chính và quản lý State
 │ │ ├── index.css # CSS thiết lập Glassmorphism & Background Glow
-│   │   └── main.jsx           # Entrypoint React
+│ │ └── main.jsx # Entrypoint React
 │   ├── index.html             # Cấu hình SEO meta tag chuẩn
 │   ├── tailwind.config.js     # Thiết lập Theme màu tối cao cấp
 │   └── package.json           # Các thư viện phụ thuộc của Frontend
