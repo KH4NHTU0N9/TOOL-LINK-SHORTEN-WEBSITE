@@ -74,7 +74,7 @@ RATE_LIMIT_MAX=10 # Tối đa 10 requests tạo link từ 1 IP trong 1 phút
 
 ---
 
-## 🚀 Hướng Dẫn Cài Đặt & Chạy Local
+## Hướng Dẫn Cài Đặt & Chạy Local
 
 ### Bước 1: Khởi động MongoDB và Redis
 Nếu bạn đã cài sẵn Docker trên máy, hãy chạy lệnh dưới đây ở thư mục gốc của dự án để khởi động nhanh hai cơ sở dữ liệu:
