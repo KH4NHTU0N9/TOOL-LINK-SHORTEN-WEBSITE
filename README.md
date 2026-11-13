@@ -35,7 +35,7 @@ secure-url-shortener/
 │ ├── .env.example # Biến môi trường mẫu
 │ └── package.json # Các thư viện phụ thuộc của Backend
 ├── frontend/
-│   ├── src/
+│ ├── src/
 │   │   ├── components/
 │   │   │   ├── Header.jsx      # Component tiêu đề thương hiệu
 │   │   │   ├── ShortenerForm.jsx # Form nhập liệu, custom alias, chọn TTL
