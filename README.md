@@ -29,7 +29,7 @@ secure-url-shortener/
 │ │ ├── utils/
 │ │ │ ├── base62.js # Sinh ID Base62 ngẫu nhiên an toàn bảo mật (CSPRNG)
 │ │ │ └── validator.js # Kiểm duyệt URL đầu vào chống XSS và Injection
-│   │   ├── routes/
+│ │ ├── routes/
 │   │   │   └── url.js         # API Route tạo link và điều hướng (Redirect)
 │   │   └── server.js          # Khởi chạy server Express chính
 │   ├── .env.example           # Biến môi trường mẫu
