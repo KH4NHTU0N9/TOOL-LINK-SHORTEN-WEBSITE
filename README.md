@@ -20,7 +20,7 @@ Hệ thống đạt tiêu chuẩn doanh nghiệp với cơ chế lưu trữ đ�
 ```text
 secure-url-shortener/
 ├── backend/
-│   ├── src/
+│ ├── src/
 │   │   ├── config/
 │   │   │   ├── db.js          # Kết nối MongoDB & Redis (có cơ chế tự phục hồi)
 │   │   │   └── security.js    # Cấu hình CORS & Rate Limiter dựa trên Redis
