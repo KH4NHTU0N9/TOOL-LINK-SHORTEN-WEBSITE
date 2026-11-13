@@ -6,7 +6,7 @@ Hệ thống đạt tiêu chuẩn doanh nghiệp với cơ chế lưu trữ đ�
 
 ---
 
-## 🛠️ Công Nghệ Sử Dụng (Tech Stack)
+## Công Nghệ Sử Dụng (Tech Stack)
 
 - **Frontend**: React.js (Vite), Tailwind CSS, Lucide Icons, QR Code Generator.
 - **Backend**: Node.js (Express), ESM Syntax.
