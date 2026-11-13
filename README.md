@@ -36,7 +36,7 @@ secure-url-shortener/
 │ └── package.json # Các thư viện phụ thuộc của Backend
 ├── frontend/
 │ ├── src/
-│   │   ├── components/
+│ │ ├── components/
 │   │   │   ├── Header.jsx      # Component tiêu đề thương hiệu
 │   │   │   ├── ShortenerForm.jsx # Form nhập liệu, custom alias, chọn TTL
 │   │   │   └── ResultCard.jsx  # Hiển thị link kết quả, copy clipboard, QR Code
