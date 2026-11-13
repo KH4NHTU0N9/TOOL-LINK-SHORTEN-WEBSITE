@@ -26,7 +26,7 @@ secure-url-shortener/
 │ │ │ └── security.js # Cấu hình CORS & Rate Limiter dựa trên Redis
 │ │ ├── models/
 │ │ │ └── Url.js # Mongoose Schema & TTL Index tự động xoá
-│   │   ├── utils/
+│ │ ├── utils/
 │   │   │   ├── base62.js      # Sinh ID Base62 ngẫu nhiên an toàn bảo mật (CSPRNG)
 │   │   │   └── validator.js   # Kiểm duyệt URL đầu vào chống XSS và Injection
 │   │   ├── routes/
