@@ -27,7 +27,7 @@ secure-url-shortener/
 │ │ ├── models/
 │ │ │ └── Url.js # Mongoose Schema & TTL Index tự động xoá
 │ │ ├── utils/
-│   │   │   ├── base62.js      # Sinh ID Base62 ngẫu nhiên an toàn bảo mật (CSPRNG)
+│ │ │ ├── base62.js # Sinh ID Base62 ngẫu nhiên an toàn bảo mật (CSPRNG)
 │   │   │   └── validator.js   # Kiểm duyệt URL đầu vào chống XSS và Injection
 │   │   ├── routes/
 │   │   │   └── url.js         # API Route tạo link và điều hướng (Redirect)
