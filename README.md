@@ -24,7 +24,7 @@ secure-url-shortener/
 │ │ ├── config/
 │ │ │ ├── db.js # Kết nối MongoDB & Redis (có cơ chế tự phục hồi)
 │ │ │ └── security.js # Cấu hình CORS & Rate Limiter dựa trên Redis
-│   │   ├── models/
+│ │ ├── models/
 │   │   │   └── Url.js         # Mongoose Schema & TTL Index tự động xoá
 │   │   ├── utils/
 │   │   │   ├── base62.js      # Sinh ID Base62 ngẫu nhiên an toàn bảo mật (CSPRNG)
