@@ -115,7 +115,7 @@ docker-compose up -d
 
 ---
 
-## 🧪 Kịch Bản Kiểm Thử Bảo Mật Tự Động (API Test)
+## Kịch Bản Kiểm Thử Bảo Mật Tự Động (API Test)
 
 Để kiểm chứng toàn bộ logic xử lý chuỗi, khả năng chống tấn công XSS, Open Redirect và kiểm tra giới hạn Rate Limit (10 link/phút), bạn có thể chạy file kiểm thử tự động bằng lệnh sau ở thư mục gốc dự án:
 
