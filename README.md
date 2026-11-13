@@ -39,7 +39,7 @@ secure-url-shortener/
 │ │ ├── components/
 │ │ │ ├── Header.jsx # Component tiêu đề thương hiệu
 │ │ │ ├── ShortenerForm.jsx # Form nhập liệu, custom alias, chọn TTL
-│   │   │   └── ResultCard.jsx  # Hiển thị link kết quả, copy clipboard, QR Code
+│ │ │ └── ResultCard.jsx # Hiển thị link kết quả, copy clipboard, QR Code
 │   │   ├── App.jsx            # Layout chính và quản lý State
 │   │   ├── index.css          # CSS thiết lập Glassmorphism & Background Glow
 │   │   └── main.jsx           # Entrypoint React
